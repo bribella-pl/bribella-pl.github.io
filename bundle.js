@@ -1,0 +1,1 @@
+(()=>{let e=document.getElementById("app"),t=document.createElement("div");t.innerHTML="<p>Test</p>",e.appendChild(t)})();
